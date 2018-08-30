@@ -1,6 +1,9 @@
-# bcnode-unpacked
+# bcnode-patched
 
-This is the unpacked source from https://hub.docker.com/r/blockcollider/bcnode/ images.
+This is the unpacked source from https://hub.docker.com/r/blockcollider/bcnode/ images, see install details
 
-Each version has its own branch depending on the tag on docker.
-The source code must be compiled before you can use it.
+Simply replaced 0.7.9 src rover LSK controller with an old optimally operating version of 0.7.7. 
+
+Made to test hybrid performance.
+
+For more optimized and ready to clone version watch mpxc hybrid version.
